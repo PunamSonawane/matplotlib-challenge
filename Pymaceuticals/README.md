@@ -1,9 +1,5 @@
 # Matplotlib Homework -Pymaceuticals
 
-## Pymaceuticals Instructions
-
-
-To do this you are tasked with:
 
 * Created a scatter plots including errorbar that shows how the tumor volume changes over time for each treatment.
 * Created a scatter plots including errorbar that shows how the number of [metastatic](cancer spreading) sites changes over time for each treatment.
